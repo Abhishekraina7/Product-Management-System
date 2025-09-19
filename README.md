@@ -1,5 +1,10 @@
 # Product-Management-System
 
+
+# Project Structure
+<img width="505" height="496" alt="image" src="https://github.com/user-attachments/assets/dbb86286-9328-4449-a36b-0f263cc64cdd" />
+
+
 ## Admin page
 * id - admin
 * password - 12345
